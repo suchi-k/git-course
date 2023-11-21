@@ -1,0 +1,8 @@
+git commands new steps
+How to check git branch that time we can use this command- git branch.
+how to move or check or create out another branch that time we can use this command-git checkout -b wecan write branch name
+or git switch branch name
+how to commit that time we can use this command-git commit -m branchor file name.
+how to delete branch that time we can use this command- git switch-d branch or filename
+pull command that time we can use this command-git pull origin branchname
+push command that time we can use this command- git push origin branchname
