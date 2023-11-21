@@ -1,4 +1,5 @@
-git commands new steps
+git commands:
+-------------
 How to check git branch that time we can use this command- git branch.
 how to move or check or create out another branch that time we can use this command-git checkout -b wecan write branch name
 or git switch branch name
