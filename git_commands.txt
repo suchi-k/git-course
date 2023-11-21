@@ -1,9 +1,18 @@
 git commands:
 -------------
-How to check git branch that time we can use this command- git branch.
+git init --> command helps to initialize (create) the local repositoy
+git add -A --> command adds all the files to the staging area.
+git commit -m "commit message" --> After files added to stage area we need to commit the changes using this command
+git remote add origin <URL of the remote repositoy> --> Establish a connection between local repositoy and remote repositoy
+git remote -v --> it shows to which remote repositoy we have connected from our local repositoy
+git push origin <branch_name> --> it pushes all the local commits to remote repositoy
+git push --set-upstream origin <branch_name> --> helps to push the changes to remote repositoy even if we do not mention the origin and branch_name in the command
+git branch - Shows the list of branches available in our local repositoy and highlights the current branch
+
+
 how to move or check or create out another branch that time we can use this command-git checkout -b wecan write branch name
 or git switch branch name
-how to commit that time we can use this command-git commit -m branchor file name.
+how to commit that time we can use this command-.
 how to delete branch that time we can use this command- git switch-d branch or filename
 pull command that time we can use this command-git pull origin branchname
 push command that time we can use this command- git push origin branchname
